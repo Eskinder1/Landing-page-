@@ -121,7 +121,7 @@ form.login a:hover
     margin: 0 auto;
     width: 250px;
     position: relative;
-    margin-top: 22%;
+    margin-top: 27%;
     z-index: 999;
     background: #FFFFFF;
     padding: 20px 15px;
@@ -179,10 +179,13 @@ form.login a:hover
     padding: 10px;
     left: 45%;
 }
-
 .h2{
 
 	color:#fff;
 	text-align: center; 
 }
 
+.row{
+ padding-top: 55px;
+
+}
