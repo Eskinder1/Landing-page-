@@ -1,0 +1,36 @@
+
+
+body {
+     background: url('https://images.unsplash.com/photo-1474900098971-037ef35979d8?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=ada2b89a565f4cdc7049fe83c0fdd6a0') fixed;
+    background-size: cover;
+     padding: 0;
+    margin: 0;
+}
+
+.well {
+    
+    background-image: linear-gradient(to bottom,#0037a7 0,rgb(132, 81, 60) 100%);
+margin-right: 400px;
+    margin-left: 400px;
+}
+
+h3 {
+    
+    color: white;
+}
+
+em {
+    
+    color: white;
+}
+
+p{
+
+	color: white;
+}
+
+.h2 {
+    
+    color: white;
+    text-align: center;
+}
